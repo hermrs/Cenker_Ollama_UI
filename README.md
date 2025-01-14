@@ -10,7 +10,7 @@ Bu proje, **Python** ve **[Ollama](https://github.com/jmorganca/ollama)** kullan
 - **Sohbet Bağlamı**: Kullanıcı mesajları ve Asistan yanıtları, kod içerisinde “conversation_history” olarak tutulur. Böylece önceki mesajları yeniden prompt’a ekleyerek **bağlamı korumaya** yardımcı olur.  
 - **Esnek Prompt**: Prompt’u istediğiniz gibi özelleştirebilir, model ayarlarını (temperature, top_p vb.) `generate()` çağrısında değiştirebilirsiniz.
 
-## Kurulum ve Gerekli Bağımlılıklar
+## Kurulum 
 
 1. **Python 3.9+**  
    - macOS’ta veya diğer işletim sistemlerinde (Windows/Linux) en az Python 3.9 önerilir.  
